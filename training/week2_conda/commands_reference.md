@@ -1,6 +1,5 @@
 # Week 2 - Conda Reference Commands
 
-Core commands covering everything in this week's topic:
 
 ```bash
 # Create an environment with a specific Python version
