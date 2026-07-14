@@ -1,0 +1,9 @@
+name: week2-reference
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - samtools
+  - fastqc
+  - multiqc
