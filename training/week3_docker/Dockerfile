@@ -1,4 +1,4 @@
-# Week 3 - Dockerfile Reference
+
 # A complete working example of a simple Docker image with a bioinformatics tool
 
 FROM ubuntu:22.04
